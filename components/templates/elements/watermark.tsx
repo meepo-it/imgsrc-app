@@ -5,6 +5,8 @@ interface Props {
 }
 
 export function Watermark({ style }: Props) {
+  return null
+
   return (
     <div
       style={{
